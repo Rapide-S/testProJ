@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00b70208-cce7-40a6-bf36-c848769d2b1f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/FIX.4.2-SERVER-CLIENT.event.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/FIX.4.2-SERVER-CLIENT.messages.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/citi/FixClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/citi/FixServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/citi/FixServerApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/acceptor.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/initiator.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/citi/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/FIX.4.2-CLIENT-SERVER.body" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/FIX.4.2-CLIENT-SERVER.header" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/FIX.4.2-CLIENT-SERVER.senderseqnums" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/FIX.4.2-CLIENT-SERVER.session" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/FIX.4.2-CLIENT-SERVER.targetseqnums" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/FIX.4.2-SERVER-CLIENT.body" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/FIX.4.2-SERVER-CLIENT.header" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/FIX.4.2-SERVER-CLIENT.senderseqnums" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/FIX.4.2-SERVER-CLIENT.session" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/FIX.4.2-SERVER-CLIENT.targetseqnums" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/acceptor.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/citi/FixClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/citi/FixServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/citi/FixServerApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/initiator.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/citi/AppTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/testProJ-1.0-SNAPSHOT.jar" beforeDir="false" />
-    </list>
+    <list default="true" id="00b70208-cce7-40a6-bf36-c848769d2b1f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/flink/target/" />
@@ -227,7 +194,67 @@
             <path>
               <item name="testProJ" type="b2602c69:ProjectViewProjectNode" />
               <item name="testProJ" type="462c0819:PsiDirectoryNode" />
+              <item name="fix" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testProJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testProJ" type="462c0819:PsiDirectoryNode" />
+              <item name="fix" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testProJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testProJ" type="462c0819:PsiDirectoryNode" />
+              <item name="fix" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testProJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testProJ" type="462c0819:PsiDirectoryNode" />
+              <item name="fix" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="citi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testProJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testProJ" type="462c0819:PsiDirectoryNode" />
               <item name="flink" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testProJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testProJ" type="462c0819:PsiDirectoryNode" />
+              <item name="flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testProJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testProJ" type="462c0819:PsiDirectoryNode" />
+              <item name="flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testProJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testProJ" type="462c0819:PsiDirectoryNode" />
+              <item name="flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testProJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testProJ" type="462c0819:PsiDirectoryNode" />
+              <item name="flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="citi" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -367,7 +394,7 @@
       <workItem from="1566830655739" duration="354000" />
       <workItem from="1567305400957" duration="2616000" />
       <workItem from="1568461678356" duration="2142000" />
-      <workItem from="1568516107330" duration="5832000" />
+      <workItem from="1568516107330" duration="6081000" />
     </task>
     <task id="LOCAL-00001" summary="test-demo">
       <created>1568553651869</created>
@@ -383,11 +410,25 @@
       <option name="project" value="LOCAL" />
       <updated>1568554071301</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test-demo">
+      <created>1568554653847</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568554653847</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test-demo">
+      <created>1568554756154</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568554756154</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28584000" />
+    <option name="totallyTimeSpent" value="28833000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

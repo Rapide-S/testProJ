@@ -58,6 +58,7 @@ public class FixClient implements Application {
         initiator.start();
 
         while (sessionID == null) {
+
             Thread.sleep(1000);
         }
 
