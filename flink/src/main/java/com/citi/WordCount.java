@@ -7,30 +7,38 @@ import org.apache.flink.streaming.api.datastream.DataStreamSource;
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 import org.apache.flink.streaming.api.windowing.time.Time;
 import org.apache.flink.util.Collector;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 /**
  * @author: Matthew
  * @date: 2019/9/15 22:10
  */
 public class WordCount {
+    private static Logger logger = LoggerFactory.getLogger(WordCount.class);
     public static void main(String[] args) throws Exception {
+        logger.info("start...");
         //定义socket的端口号
         int port;
         try{
             ParameterTool parameterTool = ParameterTool.fromArgs(args);
             port = parameterTool.getInt("port");
         }catch (Exception e){
-            System.err.println("没有指定port参数，使用默认值9000");
+            logger.info("没有指定port参数，使用默认值9000");
             port = 9000;
         }
 
         //获取运行环境
+        logger.info("获取运行环境");
         StreamExecutionEnvironment env = StreamExecutionEnvironment.getExecutionEnvironment();
 
         //连接socket获取输入的数据
+        logger.info("连接socket获取输入的数据");
         DataStreamSource<String> text = env.socketTextStream("127.0.0.1", port, "\n");
 
         //计算数据
         DataStream<WordWithCount> windowCount = text.flatMap(new FlatMapFunction<String, WordWithCount>() {
+
             public void flatMap(String value, Collector<WordWithCount> out) throws Exception {
                 String[] splits = value.split("\\s");
                 for (String word:splits) {
