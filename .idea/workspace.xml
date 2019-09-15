@@ -2,56 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00b70208-cce7-40a6-bf36-c848769d2b1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flink/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flink/src/main/java/com/citi/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flink/src/main/java/com/citi/WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flink/src/test/java/com/citi/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flink/target/classes/com/citi/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flink/target/classes/com/citi/WordCount$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flink/target/classes/com/citi/WordCount$WordWithCount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flink/target/classes/com/citi/WordCount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flink/target/test-classes/com/citi/AppTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/FIX.4.2-SERVER-CLIENT.event.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/FIX.4.2-SERVER-CLIENT.messages.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/citi/FixClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/citi/FixServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/citi/FixServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/acceptor.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/initiator.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/citi/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/FIX.4.2-CLIENT-SERVER.body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/FIX.4.2-CLIENT-SERVER.header" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/FIX.4.2-CLIENT-SERVER.senderseqnums" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/FIX.4.2-CLIENT-SERVER.session" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/FIX.4.2-CLIENT-SERVER.targetseqnums" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/FIX.4.2-SERVER-CLIENT.body" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/FIX.4.2-SERVER-CLIENT.header" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/FIX.4.2-SERVER-CLIENT.senderseqnums" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/FIX.4.2-SERVER-CLIENT.session" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/FIX.4.2-SERVER-CLIENT.targetseqnums" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/acceptor.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/citi/FixClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/citi/FixServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/citi/FixServerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/initiator.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/citi/AppTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/testProJ-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testProJ.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/FIX.4.2-SERVER-CLIENT.event.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/FIX.4.2-SERVER-CLIENT.messages.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/citi/FixClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/citi/FixServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/citi/FixServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/acceptor.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/initiator.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/citi/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/FIX.4.2-CLIENT-SERVER.body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/FIX.4.2-CLIENT-SERVER.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/FIX.4.2-CLIENT-SERVER.senderseqnums" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/FIX.4.2-CLIENT-SERVER.session" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/FIX.4.2-CLIENT-SERVER.targetseqnums" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/FIX.4.2-SERVER-CLIENT.body" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/FIX.4.2-SERVER-CLIENT.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/FIX.4.2-SERVER-CLIENT.senderseqnums" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/FIX.4.2-SERVER-CLIENT.session" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/FIX.4.2-SERVER-CLIENT.targetseqnums" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/acceptor.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/citi/FixClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/citi/FixServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/citi/FixServerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/initiator.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/citi/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/testProJ-1.0-SNAPSHOT.jar" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/flink/target/" />
+    <ignored path="$PROJECT_DIR$/fix/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,23 +64,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/flink/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="47" selection-end-column="15" />
+            <state relative-caret-position="394">
+              <caret line="33" column="42" lean-forward="true" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flink/src/main/java/com/citi/WordCount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+            <state relative-caret-position="527">
+              <caret line="31" column="59" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fix/src/main/java/citi/FixClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fix/src/main/resources/acceptor.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fix/src/main/java/citi/FixServer.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fix/src/main/java/citi/FixServerApplication.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fix/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1122">
+              <caret line="66" column="4" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -125,9 +154,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/citi/FixServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/citi/FixClient.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/citi/AppTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/flink/pom.xml" />
         <option value="$PROJECT_DIR$/flink/src/main/java/com/citi/WordCount.java" />
+        <option value="$PROJECT_DIR$/fix/src/main/java/citi/FixServerApplication.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/fix/pom.xml" />
       </list>
     </option>
   </component>
@@ -191,37 +222,12 @@
             <path>
               <item name="testProJ" type="b2602c69:ProjectViewProjectNode" />
               <item name="testProJ" type="462c0819:PsiDirectoryNode" />
-              <item name="flink" type="462c0819:PsiDirectoryNode" />
+              <item name="fix" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testProJ" type="b2602c69:ProjectViewProjectNode" />
               <item name="testProJ" type="462c0819:PsiDirectoryNode" />
               <item name="flink" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testProJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testProJ" type="462c0819:PsiDirectoryNode" />
-              <item name="flink" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testProJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testProJ" type="462c0819:PsiDirectoryNode" />
-              <item name="flink" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testProJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testProJ" type="462c0819:PsiDirectoryNode" />
-              <item name="flink" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="citi" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -234,13 +240,19 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/fix/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.33851278" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\idea\citi\testProJ\fix\src\main\resources" />
+      <recent name="E:\workspace\idea\citi\testProJ\fix\src\main\java" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -355,12 +367,27 @@
       <workItem from="1566830655739" duration="354000" />
       <workItem from="1567305400957" duration="2616000" />
       <workItem from="1568461678356" duration="2142000" />
-      <workItem from="1568516107330" duration="4812000" />
+      <workItem from="1568516107330" duration="5832000" />
     </task>
+    <task id="LOCAL-00001" summary="test-demo">
+      <created>1568553651869</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568553651869</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test-demo">
+      <created>1568554071301</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568554071301</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27564000" />
+    <option name="totallyTimeSpent" value="28584000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -408,6 +435,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test-demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="test-demo" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -475,27 +506,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/flink/src/main/java/com/citi/WordCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="59" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix/src/main/java/citi/FixServer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix/src/main/java/citi/FixServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix/src/main/java/citi/FixClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix/src/main/resources/acceptor.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="48" selection-start-line="64" selection-start-column="48" selection-end-line="64" selection-end-column="48" />
+        <state relative-caret-position="341">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="4" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flink/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="47" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flink/src/main/java/com/citi/WordCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="394">
+          <caret line="33" column="42" lean-forward="true" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
         </state>
       </provider>
     </entry>
