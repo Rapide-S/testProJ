@@ -8,7 +8,8 @@ import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 import org.apache.flink.streaming.api.windowing.time.Time;
 import org.apache.flink.util.Collector;
 /**
- *
+ * @author: Matthew
+ * @date: 2019/9/15 22:10
  */
 public class WordCount {
     public static void main(String[] args) throws Exception {
