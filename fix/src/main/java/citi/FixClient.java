@@ -17,7 +17,9 @@ public class FixClient implements Application {
     @Override
     public void onLogon(SessionID sessionID) {
         System.out.println("OnLogon");
-        FixClient.sessionID = sessionID;
+//        FixClient.sessionID = sessionID;
+        //以下方法也可以创建sessionID
+        this.sessionID = new SessionID("FIX.4.2","CLIENT","SERVER");
     }
 
     @Override
@@ -58,7 +60,7 @@ public class FixClient implements Application {
         initiator.start();
 
         while (sessionID == null) {
-
+        //登陆成功才会有sessionID
             Thread.sleep(1000);
         }
 
